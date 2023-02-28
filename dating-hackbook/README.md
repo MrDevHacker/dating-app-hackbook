@@ -19,4 +19,5 @@ pnpm dev
 - Create endpoint api/newmeet
 - Create endpoint api/message
 - Implementing connection with DB
+- Implementing Server Side Rendering 
 
