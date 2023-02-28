@@ -7,4 +7,5 @@ pnpm dev
 - Header Component 
 - NavBar Componenent
 - SidebarRow Component
+- Feed Component
 
