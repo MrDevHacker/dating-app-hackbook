@@ -15,4 +15,5 @@ pnpm dev
 - Implementing NextAuth.js
 - Building Login Component
 - Building Registration Component
+- Create endpoint api/users
 
