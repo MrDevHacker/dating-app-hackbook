@@ -10,4 +10,5 @@ pnpm dev
 - Feed Component
 - Widgets Component
 - Implementing Responsive Design
+- Footer
 
