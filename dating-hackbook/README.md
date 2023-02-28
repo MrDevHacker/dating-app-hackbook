@@ -17,4 +17,5 @@ pnpm dev
 - Building Registration Component
 - Create endpoint api/users
 - Create endpoint api/newmeet
+- Create endpoint api/message
 
