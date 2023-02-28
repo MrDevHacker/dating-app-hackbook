@@ -9,4 +9,5 @@ pnpm dev
 - SidebarRow Component
 - Feed Component
 - Widgets Component
+- Implementing Responsive Design
 
