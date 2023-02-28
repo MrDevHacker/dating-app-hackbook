@@ -13,4 +13,5 @@ pnpm dev
 - Footer
 - Profile Component
 - Implementing NextAuth.js
+- Building Login Component
 
