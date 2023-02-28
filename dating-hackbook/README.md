@@ -11,4 +11,5 @@ pnpm dev
 - Widgets Component
 - Implementing Responsive Design
 - Footer
+- Profile Component
 
