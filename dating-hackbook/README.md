@@ -8,4 +8,5 @@ pnpm dev
 - NavBar Componenent
 - SidebarRow Component
 - Feed Component
+- Widgets Component
 
