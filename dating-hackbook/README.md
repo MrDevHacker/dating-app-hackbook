@@ -4,6 +4,7 @@ pnpm dev
 
 ## TO DO 
 
-- Header
-- NavBar
+- Header Component 
+- NavBar Componenent
+- SidebarRow Component
 
