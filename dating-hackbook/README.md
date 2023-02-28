@@ -12,4 +12,5 @@ pnpm dev
 - Implementing Responsive Design
 - Footer
 - Profile Component
+- Implementing NextAuth.js
 
