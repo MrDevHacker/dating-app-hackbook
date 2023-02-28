@@ -18,4 +18,5 @@ pnpm dev
 - Create endpoint api/users
 - Create endpoint api/newmeet
 - Create endpoint api/message
+- Implementing connection with DB
 
