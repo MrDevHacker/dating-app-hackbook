@@ -5,4 +5,5 @@ pnpm dev
 ## TO DO 
 
 - Header
+- NavBar
 
