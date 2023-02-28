@@ -14,4 +14,5 @@ pnpm dev
 - Profile Component
 - Implementing NextAuth.js
 - Building Login Component
+- Building Registration Component
 
